@@ -1,0 +1,24 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "augmented-reality-game-1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Augmented Reality Game - 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "37c61bb6-8414-4ede-aaea-fc00002786be",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
