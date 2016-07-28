@@ -15,6 +15,9 @@
             "media": []
         },
         "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
         "uuid": "37c61bb6-8414-4ede-aaea-fc00002786be",
         "watchapp": {
             "watchface": false
